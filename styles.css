@@ -1,0 +1,24 @@
+.menu-btn {
+    background-color: black;
+    color: aliceblue;
+    padding: 28px;
+    margin: 24px;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    align-content: center;
+}
+
+.menu {
+    margin-left: 0px;
+    width: 230px;
+    padding: 28px;
+    background-color: rgb(72, 79, 82);
+    color: aliceblue;
+}
+
+
+a {
+    margin: 12px;
+    color: aliceblue;
+}
